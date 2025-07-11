@@ -300,10 +300,4 @@ This project is licensed under the MIT License.
 - DiceBear for avatar generation
 - React Icons for beautiful icons
 
-## 📞 Support
 
-For support or questions, please open an issue in the repository.
-
----
-
-**Happy Chatting! 🎉** 
